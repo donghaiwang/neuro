@@ -204,6 +204,7 @@ python split_pdf_with_index.py
 
 ### 操作技巧
 * Windows 下获取颜色的RGB值：按`Win+Shift+S`截图后通过画图工具打开，点击工具栏中的`颜色选取器`获得截图中想要知道的颜色，然后点击`编辑颜色`即可得到对应RGB值。
+* 使用Acrobat的`页面裁剪`功能只是隐藏裁剪部分内容，会出现 [隐藏的文本层](https://github.com/OpenHUTB/neuro/issues/445) ，需要用`工具->保护->删除隐藏信息`，去掉`已删除或裁剪的内容`和`重叠对象`的勾选，然后点击`删除`。
 
 ### 实现
 * [计算神经科学模型](https://github.com/ModelDBRepository)
