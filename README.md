@@ -13,13 +13,13 @@
 
 一、总论 <span id="perspective"></span>
 
-1. **大脑**与行为（结构）
+1. **大脑**和行为（结构）
 
-2. **基因**与行为（进化）
+2. **基因**和行为（进化）
 
 3. 神经**细胞**、神经**回路**和行为 
 
-4. 神经回路**介导**行为的神经解剖学基础 
+4. 神经回路**介导**行为的神经解剖学基础
  
 5. 行为**调节**神经回路的计算基础
 
@@ -35,7 +35,7 @@
 10. 传播信号：**动作电位**
 
 
-三、突触（ [关系](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="transmission"></span>
+三、突触传递（ [关系](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="transmission"></span>
 
 11. 突触传递概述（化学、电）
 
@@ -101,11 +101,11 @@
 39. **脑机**接口（人造输出）
 
 
-六、行为（规划、决策） <span id="planning"></span>
+六、情绪、动机和内稳态的生物学（规划、决策） <span id="planning"></span>
 
 40. 脑干
 
-41. 下丘脑：生存的自主、激素和行为控制（化学调控）
+41. 下丘脑：生存的自动、激素控制和行为控制（化学调控）
 
 42. **情感**
 
@@ -114,7 +114,7 @@
 44. 睡眠和觉醒（节律）
 
 
-七、**发育**（成长） <span id="development"></span>
+七、行为的**发育**和出现（成长） <span id="development"></span>
 
 45. 神经系统的**塑造**
 
@@ -124,14 +124,14 @@
 
 48. **突触**的形成和消除
 
-49. 突触**连接**的经验和细化
+49. 经验和突触**连接**和细化
 
 50. 受损大脑的修复
 
 51. 神经系统的性别分化
 
 
-八、学习（ [**改变**](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#learning) ） <span id="learning"></span>
+八、学习、记忆、语言与认知（ [**改变**](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#learning) ） <span id="learning"></span>
 
 52. **学习**和记忆
 
@@ -144,9 +144,9 @@
 56. 决策和意识（决策）
 
 
-九、疾病（**衰老**） <span id="desease"></span>
+九、神经系统疾病（**衰老**） <span id="desease"></span>
 
-57. 周围神经和**运动**单位疾病（运动）
+57. 周围神经和**运动**单元疾病（运动）
 
 58. 癫痫发作和**癫痫**（运动）
 
