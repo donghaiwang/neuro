@@ -165,7 +165,7 @@
 \setcounter{tocdepth}{1}
 \renewcommand{\baselinestretch}{1.2}
 % 调整段落间距
-\setlength{\parskip}{0.5em plus 0.2em minus 0.2em}
+\setlength{\parskip}{0.3em plus 0.1em minus 0.1em}
 
 \PassOptionsToPackage{no-math}{fontspec}
 \PassOptionsToPackage{quiet}{fontspec}
